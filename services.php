@@ -3,7 +3,7 @@
 <!-- ======= Header ======= -->
 <?php include('components/Header.php')?>
 <!-- ======= Body ======= -->
-<?php include('components/index.php')?>
+<?php include('index.php')?>
 <!-- ======= Footer ======= -->
 <?php include('components/Footer.php')?>
 <!-- Vendor JS Files -->

@@ -12,8 +12,8 @@
                 <li><a class="nav-link scrollto" href="#about">Quienes Somos</a></li>
                 <li><a class="nav-link scrollto" href="#services">Servicios</a></li>
                 <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
-                <li><a class="nav-link scrollto" href="#team">Equipo</a></li>
-                <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
+                <li><a class="nav-link scrollto active" href="#team">Equipo</a></li>
+                <!-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
                     <ul>
                     <li><a href="#">Drop Down 1</a></li>
                     <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
@@ -29,11 +29,11 @@
                     <li><a href="#">Drop Down 3</a></li>
                     <li><a href="#">Drop Down 4</a></li>
                     </ul>
-                </li>
-                <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+                </li> -->
+                <li><a class="nav-link scrollto" href="#contact">Contactanos</a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav><!-- .navbar -->
-            <a href="#about" class="get-started-btn scrollto">Get Started</a>
+            <a href="#about" class="get-started-btn scrollto">Empezar</a>
         </div>
     </header><!-- End Header -->

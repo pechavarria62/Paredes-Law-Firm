@@ -8,7 +8,7 @@
         <div class="container" data-aos="fade-up">
 
         <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
-            <div class="col-xl-6 col-lg-8">
+            <div class="col-xl-9 col-lg-10">
             <h1>D' Paredes Sena Inteligencia Penal<span>Services Group.</span></h1>
             <h2>Tactica Civil & Soluciones Procesales </h2>
             </div>

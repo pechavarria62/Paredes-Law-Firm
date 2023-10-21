@@ -1,7 +1,7 @@
 <!-- ======= Head ======= -->
 <?php include('components/Head.php')?>
-<!-- ======= Header ======= -->
-<?php include('components/Header.php')?>
+    <!-- ======= Header ======= -->
+    <?php include('components/Header.php')?>
 
     <!-- ======= Hero Section ======= -->
     <section id="hero" class="d-flex align-items-center justify-content-center">
@@ -9,8 +9,8 @@
 
         <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
             <div class="col-xl-6 col-lg-8">
-            <h1>D' Paredes Sena Inteligencia Penal<span>.</span></h1>
-            <h2>Tactica Civil & Soluciones Procesales Services Group</h2>
+            <h1>D' Paredes Sena Inteligencia Penal<span>Services Group.</span></h1>
+            <h2>Tactica Civil & Soluciones Procesales </h2>
             </div>
         </div>
 

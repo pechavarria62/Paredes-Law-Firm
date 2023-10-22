@@ -496,14 +496,14 @@
                                 <h4>Entrepreneur</h4>
                                 <h1>Comments and Ratings</h1>
                                 <?php
-                                $comments = file('comments.txt');
-                                if (!empty($comments)) {
-                                    foreach ($comments as $line) {
-                                        echo '<div>' . htmlspecialchars($line) . '</div>';
+                                    $comments = file('comments.txt');
+                                    if (!empty($comments)) {
+                                        foreach ($comments as $line) {
+                                            echo '<div>' . htmlspecialchars($line) . '</div>';
+                                        }
+                                    } else {
+                                        echo '<p>No comments yet.</p>';
                                     }
-                                } else {
-                                    echo '<p>No comments yet.</p>';
-                                }
                                 ?>
                             </div>
                         </div><!-- End testimonial item -->

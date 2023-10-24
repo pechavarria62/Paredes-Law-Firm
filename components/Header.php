@@ -1,5 +1,4 @@
- <!-- ======= Header ======= -->
- <header id="header" class="fixed-top ">
+    <header id="header" class="fixed-top ">
         <div class="container d-flex align-items-center justify-content-md-between">
 
             <!-- <h1 class="logo me-auto me-lg-0"><a href="index.html">Gp<span>.</span></a></h1> -->

@@ -18,7 +18,7 @@
             <div class="col-xl-2 col-md-4">
                 <div class="icon-box">
                     <i class="ri-calendar-2-line"></i>
-                    <h3><a href="">reservar una cita</a></h3>
+                    <h3><a href="">Soporte a tiempo completo</a></h3>
                 </div>
             </div>
             <div class="col-xl-2 col-md-4">

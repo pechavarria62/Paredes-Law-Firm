@@ -4,7 +4,7 @@
 
             <!-- <h1 class="logo me-auto me-lg-0"><a href="index.html">Gp<span>.</span></a></h1> -->
             <!-- Uncomment below if you prefer to use an image logo -->
-            <a href="index.php" class="logo me-auto me-lg-5"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>
+            <a href="index.php" class="logo me-auto me-lg-5"><img src="assets/img/Logo.png" alt="" class="img-fluid"></a>
 
             <nav id="navbar" class="navbar order-last order-lg-0">
                 <ul>
@@ -34,6 +34,6 @@
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav><!-- .navbar -->
-            <!-- <a href="#about" class="get-started-btn scrollto">Empezar</a> -->
+            <a href="#about" class="get-started-btn scrollto">Reserva Una Cita</a>
         </div>
     </header><!-- End Header -->

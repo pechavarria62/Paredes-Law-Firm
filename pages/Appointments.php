@@ -5,7 +5,7 @@
 </head>
 <body>
     <h1>Book an Appointment</h1>
-    <form action="/functions.php" method="post">
+    <form action="/functions/Appmnts_functions.php" method="post">
         <label for="date">Select Date:</label>
         <input type="date" name="date" required><br>
         

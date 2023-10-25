@@ -7,46 +7,39 @@
     <section id="hero" class="d-flex align-items-center justify-content-center">
         <div class="container" data-aos="fade-up">
 
-        <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
-            <div class="col-xl-9 col-lg-10">
-            <h1>D' Paredes Sena Inteligencia Penal<span>Services Group.</span></h1>
-            <h2>Tactica Civil & Soluciones Procesales </h2>
+            <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+                <div class="col-xl-9 col-lg-10">
+                <h1>D' Paredes Sena Inteligencia Penal<span>Services Group.</span></h1>
+                <h2>Tactica Civil & Soluciones Procesales </h2>
+                </div>
             </div>
-        </div>
 
-        <div class="row gy-4 mt-5 justify-content-center" data-aos="zoom-in" data-aos-delay="250">
-            <div class="col-xl-2 col-md-4">
-                <div class="icon-box">
-                    <i class="ri-calendar-2-line"></i>
-                    <h3><a href="">Soporte a tiempo completo</a></h3>
+            <div class="row gy-4 mt-5 justify-content-center" data-aos="zoom-in" data-aos-delay="250">
+                <div class="col-xl-2 col-md-4">
+                    <div class="icon-box">
+                        <i class="ri-anticlockwise-2-line"></i>
+                        <h3><a href="">Soporte Tiempo Completo</a></h3>
+                    </div>
+                </div>
+                <div class="col-xl-2 col-md-4">
+                    <div class="icon-box">
+                        <i class="ri-fingerprint-line"></i>
+                        <h3><a href="">Gestión Segura</a></h3>
+                    </div>
+                </div>
+                <div class="col-xl-2 col-md-4">
+                    <div class="icon-box">
+                        <i class="ri-shake-hands-line"></i>
+                        <h3><a href="">Compromiso</a></h3>
+                    </div>
+                </div>
+                <div class="col-xl-2 col-md-4">
+                    <div class="icon-box">
+                        <i class="ri-file-lock-line"></i>
+                        <h3><a href="">Confidencialidad</a></h3>
+                    </div>
                 </div>
             </div>
-            <div class="col-xl-2 col-md-4">
-                <div class="icon-box">
-                    <i class="ri-bar-chart-box-line"></i>
-                    <h3><a href="">Dolor Sitema</a></h3>
-                </div>
-            </div>
-            <div class="col-xl-2 col-md-4">
-                <div class="icon-box">
-                    <i class="ri-calendar-todo-line"></i>
-                    <h3><a href="">Sedare Perspiciatis</a></h3>
-                </div>
-            </div>
-            <div class="col-xl-2 col-md-4">
-                <div class="icon-box">
-                    <i class="ri-paint-brush-line"></i>
-                    <h3><a href="">Magni Dolores</a></h3>
-                </div>
-            </div>
-            <div class="col-xl-2 col-md-4">
-                <div class="icon-box">
-                    <i class="ri-database-2-line"></i>
-                    <h3><a href="">Nemos Enimade</a></h3>
-                </div>
-            </div>
-        </div>
-
         </div>
     </section><!-- End Hero -->
 
@@ -55,25 +48,30 @@
         <!-- ======= About Section ======= -->
         <section id="about" class="about">
         <div class="container" data-aos="fade-up">
-
+            
+            <div class="section-title">
+                <h2>Quienes Somos</h2>
+            </div>
+            
             <div class="row">
             <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
                 <img src="assets/img/about.jpg" class="img-fluid" alt="">
             </div>
             <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
-                <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+                <h3>Estamos aquí para gestionar su derecho con <span>experiencia</span></h3>
                 <p class="fst-italic">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                magna aliqua.
+                    Somos una firma de abogados líder en el campo de la inteligencia penal. Nuestra 
+                    firma, compuesta por un equipo de abogados altamente calificados y apasionados, 
+                    se especializa en ofrecer servicios legales de alta calidad relacionados con el 
+                    derecho penal y la justicia. 
                 </p>
                 <ul>
-                <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+                <li><i class="ri-check-double-line"></i>  Nos enorgullecemos de nuestro compromiso con la excelencia, la ética y la defensa de los derechos de nuestros clientes. </li>
+                <li><i class="ri-check-double-line"></i> Trabajamos de cerca con nuestros clientes para desarrollar estrategias legales personalizadas y efectivas. </li>
+                <li><i class="ri-check-double-line"></i> Nuestra visión es ser reconocidos como una firma de abogados de confianza, dedicada a la justicia y la protección de los derechos individuales.</li>
                 </ul>
                 <p>
-                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident
+                Estamos aquí para enfrentar los desafíos legales más complejos y brindar resultados excepcionales.
                 </p>
             </div>
             </div>
@@ -82,7 +80,7 @@
         </section><!-- End About Section -->
 
         <!-- ======= Clients Section ======= -->
-        <section id="clients" class="clients">
+        <!-- <section id="clients" class="clients">
         <div class="container" data-aos="zoom-in">
 
             <div class="clients-slider swiper">
@@ -100,10 +98,10 @@
             </div>
 
         </div>
-        </section><!-- End Clients Section -->
+        </section>End Clients Section -->
 
         <!-- ======= Features Section ======= -->
-        <section id="features" class="features">
+        <!-- <section id="features" class="features">
         <div class="container" data-aos="fade-up">
 
             <div class="row">
@@ -133,7 +131,7 @@
             </div>
 
         </div>
-        </section><!-- End Features Section -->
+        </section>End Features Section -->
 
         <!-- ======= Services Section ======= -->
         <section id="services" class="services">
@@ -141,7 +139,7 @@
 
             <div class="section-title">
             <h2>Servicios</h2>
-            <p>Cheques Nuestros Servicios</p>
+            <p>Servicios Jurídicos <span>Especializados</span></p>
             </div>
 
             <div class="row">

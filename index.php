@@ -17,7 +17,7 @@
             <div class="row gy-4 mt-5 justify-content-center" data-aos="zoom-in" data-aos-delay="250">
                 <div class="col-xl-2 col-md-4">
                     <div class="icon-box">
-                        <i class="ri-anticlockwise-2-line"></i>
+                        <i class="ri-clockwise-2-line"></i>
                         <h3><a href="">Soporte Tiempo Completo</a></h3>
                     </div>
                 </div>
@@ -33,7 +33,7 @@
                         <h3><a href="">Compromiso</a></h3>
                     </div>
                 </div>
-                <div class="col-xl-2 col-md-4">
+                <div class="col-xl-3 col-md-5">
                     <div class="icon-box">
                         <i class="ri-file-lock-line"></i>
                         <h3><a href="">Confidencialidad</a></h3>
@@ -47,153 +47,96 @@
 
         <!-- ======= About Section ======= -->
         <section id="about" class="about">
-        <div class="container" data-aos="fade-up">
-            
-            <div class="section-title">
-                <h2>Quienes Somos</h2>
+            <div class="container" data-aos="fade-up">
+                <div class="section-title">
+                    <h2>Quienes Somos</h2>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
+                        <img src="assets/img/about.jpg" class="img-fluid" alt="">
+                    </div>
+                    <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
+                        <h3>Estamos aquí para gestionar su derecho con <span class='active'>experiencia</span></h3>
+                        <p class="fst-italic">
+                            Somos una firma de abogados líder en el campo de la inteligencia penal. Nuestra 
+                            firma, compuesta por un equipo de abogados altamente calificados y apasionados, 
+                            se especializa en ofrecer servicios legales de alta calidad relacionados con el 
+                            derecho penal y la justicia. 
+                        </p>
+                        <ul>
+                        <li><i class="ri-check-double-line"></i>  Nos enorgullecemos de nuestro compromiso con la excelencia, la ética y la defensa de los derechos de nuestros clientes. </li>
+                        <li><i class="ri-check-double-line"></i> Trabajamos de cerca con nuestros clientes para desarrollar estrategias legales personalizadas y efectivas. </li>
+                        <li><i class="ri-check-double-line"></i> Nuestra visión es ser reconocidos como una firma de abogados de confianza, dedicada a la justicia y la protección de los derechos individuales.</li>
+                        </ul>
+                        <p>
+                        Estamos aquí para enfrentar los desafíos legales más complejos y brindar resultados excepcionales.
+                        </p>
+                    </div>
+                </div>
             </div>
-            
-            <div class="row">
-            <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-                <img src="assets/img/about.jpg" class="img-fluid" alt="">
-            </div>
-            <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
-                <h3>Estamos aquí para gestionar su derecho con <span>experiencia</span></h3>
-                <p class="fst-italic">
-                    Somos una firma de abogados líder en el campo de la inteligencia penal. Nuestra 
-                    firma, compuesta por un equipo de abogados altamente calificados y apasionados, 
-                    se especializa en ofrecer servicios legales de alta calidad relacionados con el 
-                    derecho penal y la justicia. 
-                </p>
-                <ul>
-                <li><i class="ri-check-double-line"></i>  Nos enorgullecemos de nuestro compromiso con la excelencia, la ética y la defensa de los derechos de nuestros clientes. </li>
-                <li><i class="ri-check-double-line"></i> Trabajamos de cerca con nuestros clientes para desarrollar estrategias legales personalizadas y efectivas. </li>
-                <li><i class="ri-check-double-line"></i> Nuestra visión es ser reconocidos como una firma de abogados de confianza, dedicada a la justicia y la protección de los derechos individuales.</li>
-                </ul>
-                <p>
-                Estamos aquí para enfrentar los desafíos legales más complejos y brindar resultados excepcionales.
-                </p>
-            </div>
-            </div>
-
-        </div>
         </section><!-- End About Section -->
-
-        <!-- ======= Clients Section ======= -->
-        <!-- <section id="clients" class="clients">
-        <div class="container" data-aos="zoom-in">
-
-            <div class="clients-slider swiper">
-            <div class="swiper-wrapper align-items-center">
-                <div class="swiper-slide"><img src="assets/img/clients/client-1.png" class="img-fluid" alt=""></div>
-                <div class="swiper-slide"><img src="assets/img/clients/client-2.png" class="img-fluid" alt=""></div>
-                <div class="swiper-slide"><img src="assets/img/clients/client-3.png" class="img-fluid" alt=""></div>
-                <div class="swiper-slide"><img src="assets/img/clients/client-4.png" class="img-fluid" alt=""></div>
-                <div class="swiper-slide"><img src="assets/img/clients/client-5.png" class="img-fluid" alt=""></div>
-                <div class="swiper-slide"><img src="assets/img/clients/client-6.png" class="img-fluid" alt=""></div>
-                <div class="swiper-slide"><img src="assets/img/clients/client-7.png" class="img-fluid" alt=""></div>
-                <div class="swiper-slide"><img src="assets/img/clients/client-8.png" class="img-fluid" alt=""></div>
-            </div>
-            <div class="swiper-pagination"></div>
-            </div>
-
-        </div>
-        </section>End Clients Section -->
-
-        <!-- ======= Features Section ======= -->
-        <!-- <section id="features" class="features">
-        <div class="container" data-aos="fade-up">
-
-            <div class="row">
-            <div class="image col-lg-6" style='background-image: url("assets/img/features.jpg");' data-aos="fade-right"></div>
-            <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
-                <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
-                <i class="bx bx-receipt"></i>
-                <h4>Est labore ad</h4>
-                <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
-                </div>
-                <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-                <i class="bx bx-cube-alt"></i>
-                <h4>Harum esse qui</h4>
-                <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
-                </div>
-                <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-                <i class="bx bx-images"></i>
-                <h4>Aut occaecati</h4>
-                <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
-                </div>
-                <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-                <i class="bx bx-shield"></i>
-                <h4>Beatae veritatis</h4>
-                <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
-                </div>
-            </div>
-            </div>
-
-        </div>
-        </section>End Features Section -->
 
         <!-- ======= Services Section ======= -->
         <section id="services" class="services">
-        <div class="container" data-aos="fade-up">
+            <div class="container" data-aos="fade-up">
 
-            <div class="section-title">
-            <h2>Servicios</h2>
-            <p>Servicios Jurídicos <span>Especializados</span></p>
-            </div>
-
-            <div class="row">
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
-                <div class="icon-box">
-                <div class="icon"><i class="bx bxl-dribbble"></i></div>
-                <h4><a href="">Lorem Ipsum</a></h4>
-                <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+                <div class="section-title">
+                <h2>Servicios</h2>
+                <p>Servicios Jurídicos <span class='active'>Especializados</span></p>
                 </div>
-            </div>
 
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
-                <div class="icon-box">
-                <div class="icon"><i class="bx bx-file"></i></div>
-                <h4><a href="">Sed ut perspiciatis</a></h4>
-                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+                <div class="row">
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+                    <div class="icon-box">
+                    <div class="icon"><i class="bx bxl-dribbble"></i></div>
+                    <h4><a href="">Lorem Ipsum</a></h4>
+                    <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+                    </div>
                 </div>
-            </div>
 
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
-                <div class="icon-box">
-                <div class="icon"><i class="bx bx-tachometer"></i></div>
-                <h4><a href="">Magni Dolores</a></h4>
-                <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+                    <div class="icon-box">
+                    <div class="icon"><i class="bx bx-file"></i></div>
+                    <h4><a href="">Sed ut perspiciatis</a></h4>
+                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+                    </div>
                 </div>
-            </div>
 
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
-                <div class="icon-box">
-                <div class="icon"><i class="bx bx-world"></i></div>
-                <h4><a href="">Nemo Enim</a></h4>
-                <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
+                    <div class="icon-box">
+                    <div class="icon"><i class="bx bx-tachometer"></i></div>
+                    <h4><a href="">Magni Dolores</a></h4>
+                    <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+                    </div>
                 </div>
-            </div>
 
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
-                <div class="icon-box">
-                <div class="icon"><i class="bx bx-slideshow"></i></div>
-                <h4><a href="">Dele cardo</a></h4>
-                <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
+                    <div class="icon-box">
+                    <div class="icon"><i class="bx bx-world"></i></div>
+                    <h4><a href="">Nemo Enim</a></h4>
+                    <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+                    </div>
                 </div>
-            </div>
 
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
-                <div class="icon-box">
-                <div class="icon"><i class="bx bx-arch"></i></div>
-                <h4><a href="">Divera don</a></h4>
-                <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
+                    <div class="icon-box">
+                    <div class="icon"><i class="bx bx-slideshow"></i></div>
+                    <h4><a href="">Dele cardo</a></h4>
+                    <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+                    </div>
                 </div>
-            </div>
+
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
+                    <div class="icon-box">
+                    <div class="icon"><i class="bx bx-arch"></i></div>
+                    <h4><a href="">Divera don</a></h4>
+                    <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+                    </div>
+                </div>
+
+                </div>
 
             </div>
-
-        </div>
         </section><!-- End Services Section -->
 
         <!-- ======= Cta Section ======= -->
@@ -494,7 +437,7 @@
                                 <h4>Entrepreneur</h4>
                                 <h1>Comments and Ratings</h1>
                                 <?php
-                                    $comments = file('comments.txt');
+                                    $comments = file('textFiles/comments.txt');
                                     if (!empty($comments)) {
                                         foreach ($comments as $line) {
                                             echo '<div>' . htmlspecialchars($line) . '</div>';

@@ -32,10 +32,6 @@ h5,
 h6 {
   font-family: "Raleway", sans-serif;
 }
-span {
-  color: -webkit-linear-gradient(left,#d5aa6d,#9b6f45);
-  /* background-image: -webkit-linear-gradient(left,#d5aa6d,#9b6f45); */
-}
 
 /*--------------------------------------------------------------
 # Back to top button
@@ -47,7 +43,7 @@ span {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: -webkit-linear-gradient(left,#d5aa6d,#9b6f45);
+  background: #ffd700;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -441,7 +437,7 @@ span {
 }
 
 #hero h1 span {
-  color: #ffd451;
+  color: #ffd700;
 }
 
 #hero h2 {
@@ -583,6 +579,9 @@ section {
 
 .about .content p:last-child {
   margin-bottom: 0;
+}
+.about .content .active {
+  color: #ffd700;
 }
 
 /*--------------------------------------------------------------

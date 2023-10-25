@@ -9,9 +9,10 @@
         $data = $comment . " (Rating: $rating stars)\n";
 
         // Append the data to a text file (e.g., comments.txt).
-        file_put_contents('textFiles/comments.txt', $data, FILE_APPEND);
+        $filepath = '../textFiles/comments.txt';
+        file_put_contents($filepath, $data, FILE_APPEND);
 
-        header('Location: index.php');
+        header('Location: ../index.php');
         exit;
     }
 ?>

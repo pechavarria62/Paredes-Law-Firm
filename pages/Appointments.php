@@ -1,11 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Appointment Booking</title>
-</head>
-<body>
+<!-- ======= Head ======= -->
+<?php include('components/Head.php')?>
     <h1>Book an Appointment</h1>
-    <form action="/functions/Appmnts_functions.php" method="post">
+    <form action="/functions/Appmnts_function.php" method="post">
         <label for="date">Select Date:</label>
         <input type="date" name="date" required><br>
         
@@ -26,5 +22,5 @@
         
         <input type="submit" value="Book Appointment">
     </form>
-</body>
-</html>
+<!-- Vendor JS Files -->
+<?php include('components/Jsfiles.php')?>

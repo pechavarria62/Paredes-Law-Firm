@@ -10,8 +10,9 @@
         $appointment = "$date $time | $first_name $last_name | $phone | $email";
         
         // Save the appointment to a text file
-        file_put_contents('textFiles/appointments.txt', $appointment.PHP_EOL, FILE_APPEND);
+        $filepath = '../textFiles/appointments.txt';
+        file_put_contents($filepath, $appointment.PHP_EOL, FILE_APPEND);
         
-        header('Location: index.php'); // Redirect back to the booking page
+        header('Location: ../index.php'); // Redirect back to the booking page
     }
 ?>

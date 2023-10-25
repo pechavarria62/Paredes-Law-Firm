@@ -13,17 +13,18 @@
             <th>Email</th>
         </tr>
         <?php
-        $appointments = file('/textFiles/appointments.txt', FILE_IGNORE_NEW_LINES);
-        
-        foreach ($appointments as $appointment) {
-            list($datetime, $name, $phone, $email) = explode(' | ', $appointment);
-            echo "<tr>";
-            echo "<td>$datetime</td>";
-            echo "<td>$name</td>";
-            echo "<td>$phone</td>";
-            echo "<td>$email</td>";
-            echo "</tr>";
-        }
+            $filepath = '../textFiles/appointments.txt';
+            $appointments = file($filepath, FILE_IGNORE_NEW_LINES);
+            
+            foreach ($appointments as $appointment) {
+                list($datetime, $name, $phone, $email) = explode(' | ', $appointment);
+                echo "<tr>";
+                echo "<td>$datetime</td>";
+                echo "<td>$name</td>";
+                echo "<td>$phone</td>";
+                echo "<td>$email</td>";
+                echo "</tr>";
+            }
         ?>
     </table>
 </body>

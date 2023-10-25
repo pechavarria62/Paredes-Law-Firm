@@ -16,6 +16,6 @@
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav><!-- .navbar -->
-            <a href="pages/Appointment.php" class="get-started-btn scrollto">Reserva Una Cita</a>
+            <a href="pages/Appointments.php" class="get-started-btn scrollto">Reserva Una Cita</a>
         </div>
     </header><!-- End Header -->

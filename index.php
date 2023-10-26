@@ -17,7 +17,7 @@
             <div class="row gy-4 mt-5 justify-content-center" data-aos="zoom-in" data-aos-delay="250">
                 <div class="col-xl-2 col-md-4">
                     <div class="icon-box">
-                        <i class="ri-clockwise-2-line"></i>
+                        <i class="fa-solid fa-arrows-rotate"></i>
                         <h3><a href="">Soporte Tiempo Completo</a></h3>
                     </div>
                 </div>
@@ -29,11 +29,11 @@
                 </div>
                 <div class="col-xl-2 col-md-4">
                     <div class="icon-box">
-                        <i class="ri-shake-hands-line"></i>
+                        <i class="fa-regular fa-handshake"></i>
                         <h3><a href="">Compromiso</a></h3>
                     </div>
                 </div>
-                <div class="col-xl-3 col-md-5">
+                <div class="col-xl-3 col-md-4">
                     <div class="icon-box">
                         <i class="ri-file-lock-line"></i>
                         <h3><a href="">Confidencialidad</a></h3>

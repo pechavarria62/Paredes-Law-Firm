@@ -7,7 +7,7 @@
         $phone = $_POST["phone"];
         $email = $_POST["email"];
         
-        $appointment = "$date $time | $first_name $last_name | $phone | $email";
+        $appointment = "$date | $time | $first_name $last_name | $phone | $email";
         
         // Save the appointment to a text file
         $filepath = '../textFiles/appointments.txt';

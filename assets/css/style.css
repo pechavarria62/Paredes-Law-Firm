@@ -1423,6 +1423,9 @@ section {
 #footer .footer-top .footer-info {
   margin-bottom: 30px;
 }
+#footer .footer-top .footer-info .logo{
+  height: 5px;
+}
 
 #footer .footer-top .footer-info h3 {
   font-size: 28px;

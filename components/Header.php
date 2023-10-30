@@ -10,7 +10,6 @@
                 <li><a class="nav-link scrollto active" href="#hero">Inicio</a></li>
                 <li><a class="nav-link scrollto" href="#about">Quienes Somos</a></li>
                 <li><a class="nav-link scrollto" href="#services">Servicios</a></li>
-                <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
                 <li><a class="nav-link scrollto active" href="#team">Equipo</a></li>
                 <li><a class="nav-link scrollto" href="#contact">Contactanos</a></li>
                 </ul>

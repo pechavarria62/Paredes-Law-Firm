@@ -1,14 +1,14 @@
 <!-- ======= Head ======= -->
 <?php include('../components/Head.php')?>
-<div class='container form-control my-2'>
+    <div class='container form-control my-2'>
 
-    <h2>Crear Horario</h2>
-    <form action="../functions/Update_times.php" method="post">
-        <label for="available_times">Seleccionar Horario:</label>
-        <input type="time" name="available_times" required><br>
-        <button class='btn btn-outline-primary px-1 py-0' type='submit' value='Book Appointment'>Agregar</button>
-    </form><br>
-</div>
+        <h2>Crear Horario</h2>
+        <form action="../functions/Update_times.php" method="post">
+            <label for="available_times">Seleccionar Horario:</label>
+            <input type="time" name="available_times" required><br>
+            <button class='btn btn-outline-primary px-1 py-0' type='submit' value='Book Appointment'>Agregar</button>
+        </form><br>
+    </div>
     <div class='container form-control'>
         <h1 class='border-bottom '>Citas</h1>
         <table class='row'>

@@ -6,7 +6,6 @@
             <h1 class='border-bottom text-warning'>Reservar Una Cita</h1>
             <label  class="form-label" for="date">Seleccionar Fecha</label>
             <input class="form-control form-control-sm" type="date" name="date" required>
-            
             <label  class="form-label" for="time">Seleccionar Horario</label>
             <select name="time" required>
                 <!-- Get the time set in the admin panel -->

@@ -1413,7 +1413,6 @@ section {
   color: #fff;
   font-size: 14px;
 }
-
 #footer .footer-top {
   background: #151515;
   border-bottom: 1px solid #222222;
@@ -1421,15 +1420,15 @@ section {
 }
 
 #footer .footer-top .footer-info {
-  margin-bottom: 30px;
+  margin-bottom: 18px;
 }
 #footer .footer-top .footer-info .logo{
-  height: 5px;
+  height: 4px;
 }
 
 #footer .footer-top .footer-info h3 {
   font-size: 28px;
-  margin: 0 0 20px 0;
+  margin: 0 0 15px 0;
   padding: 2px 0 2px 0;
   line-height: 1;
   font-weight: 700;
